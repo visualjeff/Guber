@@ -1,6 +1,6 @@
 # Guber
 
-### Generates an Arrays records.   Additionally, Guber can randomly inject duplicates and wholes (for sparce arrays) within the array it generates.  Handy for testing.  The heavy lifting takes place in lib/index.js.  An example usage can be found in index.js.  More examples can be found in test/index.js
+### Generates an Arrays of records.   Additionally, Guber can randomly inject duplicates and wholes (for sparce arrays) within the array it generates.  The heavy lifting takes place in lib/index.js.  
 
 ## Pre-reqs
 ```
@@ -18,7 +18,7 @@ const { Guber } = require('./lib/index');
 const arrayOfRecord = Guber.generateFakePayload(SIZE, DUPLICATES, WHOLES);
 
 ```
-
+    or
 
 ```
 const { Guber } = require('./lib/index');
