@@ -1,7 +1,7 @@
 {
   "name": "Guber",
   "version": "1.0.0",
-  "description": "Generates an Arrays records.   Additionally, Guber can randomly inject duplicates and wholes (for sparce arrays) within the array it generates.  Handy for testing.",
+  "description": "Generates an Array of records.   Additionally, Guber can randomly inject duplicates and wholes (for sparce arrays) within the array it generates.  Handy for testing.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
