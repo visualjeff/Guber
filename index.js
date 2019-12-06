@@ -1,4 +1,4 @@
-'use stict';
+'use strict';
 
 //Called him Guber because I can!
 const { Guber } = require('./lib/index');
