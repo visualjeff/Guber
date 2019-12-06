@@ -6,13 +6,17 @@
   "scripts": {
     "test": "mocha"
   },
-  "keywords": ["faker", "arrays"],
+  "keywords": [
+    "faker",
+    "arrays"
+  ],
   "author": "visualjeff",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^6.1.4"
   },
   "dependencies": {
-    "faker": "^4.1.0"
+    "faker": "^4.1.0",
+    "lodash": ">=4.17.12"
   }
 }
