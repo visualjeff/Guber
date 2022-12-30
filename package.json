@@ -13,7 +13,7 @@
   "author": "visualjeff",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^6.1.4"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "faker": "^4.1.0",
